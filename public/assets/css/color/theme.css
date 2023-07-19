@@ -1,0 +1,428 @@
+/*--------------------------------------------------
+[1. Start Home 24-02-2022]
+--------------------------------------------------*/
+.bg-body {
+    background-color: #1C1C1E !important;
+}
+
+/* header style start  */
+.header::before {
+    content: '';
+    background: url(../images/green_diamond_dark.png)!important;
+    width: 100%;
+    background-size: cover!important;
+    background-repeat: no-repeat;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.section_heading {
+    font-weight: 800;
+    font-size: 64px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.section_pera {
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.btn-primary {
+    background-color: #71AFAC !important;
+    border: 2px solid transparent;
+    border-radius: 100px;
+    padding: 8px 40px;
+}
+
+.btn-primary:hover {
+    background-color: white !important;
+    color: #71AFAC !important;
+    border: 2px solid #71AFAC !important;
+}
+
+.btn-primary:focus {
+    box-shadow: none !important;
+    border: 2px solid #71AFAC !important;
+}
+
+.btn-secondary {
+    background-color: transparent !important;
+    border: 2px solid #71AFAC;
+    border-radius: 100px;
+    padding: 8px 40px;
+    color: #71AFAC;
+}
+
+.btn-secondary:hover {
+    background-color: #71AFAC !important;
+    border: 2px solid transparent;
+    border-radius: 100px;
+    color: white;
+}
+
+.btn_no_bg {
+    background-color: transparent !important;
+    color: black !important;
+    border: none !important;
+    font-weight: 500;
+}
+
+.btn_no_bg:hover {
+    background-color: transparent !important;
+    color: black !important;
+    border: none !important;
+}
+
+.btn_no_bg:focus {
+    box-shadow: none !important;
+}
+
+
+
+
+@media(max-width:425px) {
+    .endless-possibilities .download_btn .btn-primary p {
+        color: #575A65 !important;
+    }
+}
+
+
+
+.login_btn .btn_no_bg {
+    border-left: 2px solid #71AFAC !important;
+    border-radius: 0px;
+}
+
+.login_btn .btn_no_bg:focus {
+    border: none !important;
+    border-left: 2px solid #71AFAC !important;
+    border-radius: 0px;
+}
+
+
+@media(max-width:991px) {
+    .login_btn .btn_no_bg {
+        border-left: 2px solid #71AFAC !important;
+    }
+}
+
+
+
+
+/* collection section style start  */
+.collection .section_heading .dropdown-menu {
+    background-color: #71AFAC;
+}
+
+.collection .section_heading .dropdown-item {
+    color: white;
+}
+
+.collection .section_heading .dropdown-item:hover {
+    color: #71AFAC;
+}
+
+.collection .section_heading .dropdown-toggle::after {
+    display: none !important;
+}
+
+
+.collection .section_heading .dropdown-item:focus {
+    color: #71AFAC !important;
+    background-color: white;
+}
+
+.collection .nav-pills {
+    justify-content: center;
+}
+
+.collection .nav-pills .nav-item {
+    background: #2C2C2E;
+}
+
+
+.collection .nav-pills .nav-item .nav-link {
+    color: #ffffff;
+}
+
+.collection .nav-pills .nav-item .nav-link {
+    border-radius: 1000px;
+}
+
+.collection .nav-pills .nav-item .active {
+    background-color: #71AFAC !important;
+    color: white;
+}
+
+.collection .tab-content .tab-pane .table-card {
+    background-color: #2C2C2E;
+}
+
+.table {
+    color: #ffffff;
+    border-color: #E3E4E4;
+}
+
+
+
+.call-to-action h3 {
+    color: #FFFFFF;
+}
+
+.call-to-action .btn-secondary {
+    border: 2px solid white;
+    color: white;
+}
+
+.call-to-action .btn-secondary:hover {
+    border: 2px solid white;
+    color: #71AFAC !important;
+    background-color: white !important;
+}
+
+.call-to-action .btn-primary {
+    border: 2px solid white !important;
+    color: #71AFAC !important;
+    background-color: white !important;
+}
+
+.call-to-action .btn-primary:hover {
+    border: 2px solid white !important;
+    color: white !important;
+    background-color: #71AFAC !important;
+}
+
+
+/* endless-possibilities  section style start  */
+.endless-possibilities .endless-possibilities-img {
+    background-image: url(../images/Endless_sectino_1_dark.png) !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 450px;
+    width: auto;
+}
+
+@media(max-width:1199px) {
+    .endless-possibilities .endless-possibilities-img {
+        height: 340px !important;
+    }
+}
+
+.endless-possibilities .endless-possibilities-img_2 {
+    background-image: url(../images/Endless_sectino_2_fung.png) !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 550px;
+    width: auto;
+}
+
+@media(max-width:1199px) {
+    .endless-possibilities .endless-possibilities-img_2 {
+        height: 340px !important;
+    }
+}
+
+.endles {
+    background-color: #1C1C1E;
+}
+
+.possibilities-box {
+    background-color: #2C2C2E;
+    color: #fff;
+}
+
+.endless-possibilities .download_btn .btn-primary {
+    background: #F7F7F8 !important;
+}
+
+.endless-possibilities .download_btn .btn-primary p {
+    color: #575A65 !important;
+}
+
+.endless-possibilities .download_btn .btn-primary span {
+    color: #575A65 !important;
+}
+
+
+
+/* footer  section style start  */
+.footer {
+    background: #2C2C2E !important;
+}
+
+.sub-footer {
+    background-color: #1C1C1E;
+}
+
+.footer .info {
+    border-right: 1px solid #E3E4E4;
+}
+
+.footer .resources {
+    background: #F2F9F9;
+}
+
+.resources .section_pera {
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #000000;
+}
+
+.footer .earn-more {
+    background: #71AFAC;
+}
+
+.footer .earn-more h3 {
+    color: white;
+}
+
+.footer .earn-more p {
+    color: white;
+}
+
+.footer .earn-more a {
+    color: white;
+}
+
+.footer ul li a {
+    color: #ffffff !important;
+}
+
+.footer_link h3 {
+    color: #ffffff;
+}
+
+.footer .footer_link .input-group .form-control {
+    background: #FFFFFF;
+    border: 1px solid #E7E8EA;
+}
+
+.footer .footer_link .input-group .input-group-text {
+    background-color: #71AFAC !important;
+    color: white;
+}
+
+/*--------------------------------------------------
+[1. Start Home 24-02-2022]
+--------------------------------------------------*/
+
+
+
+
+
+
+/*--------------------------------------------------
+[2. login and sign up  start 28-2-2022 ]
+--------------------------------------------------*/
+
+.sign-up .bg-light {
+    background-color: #1C1C1E !important;
+}
+
+.sign-up .card {
+    background: #2C2C2E;
+}
+
+.sign-up .card .card_heading {
+    color: white;
+}
+
+.sign-up .card .card_pera {
+    color: #9CA3AF;
+}
+
+.sign-up .card .d-flex .ETH {
+    color: white;
+}
+
+.sign-up .card .d-flex .rating {
+    color: #19976A;
+}
+
+.sign-up .card_botom_text {
+    color: white;
+}
+
+.sign-up .bg-white {
+    background-color: #2C2C2E !important;
+}
+
+.sign-up .carousel-indicators [data-bs-target] {
+    background-color: #E8EBEC !important;
+}
+
+.sign-up .carousel-indicators .active {
+    background-color: #BCE0DF !important;
+}
+
+.sign-up .form .form_heading {
+    color: white;
+}
+
+.sign-up .form_section .form_devder span {
+    color: #71AFAC !important;
+}
+
+.sign-up .form-control {
+    background: #001413;
+    border: 1px solid #E7E8EA;
+}
+
+.sign-up .form-control::placeholder {
+    color: #A0A1AB !important;
+}
+
+
+.sign-up .form_section .form .model_btn {
+    border: 1px solid #D1D5DB !important;
+    color: white !important;
+}
+
+.sign-up .form_section .modal-content {
+    background: #2C2C2E;
+}
+
+.sign-up .form_section .modal-dialog .modal_heading {
+    color: white;
+}
+
+.sign-up .form_section .modal-dialog .btn-close {
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    padding: 0.25em 0.25em;
+    color: white;
+    fill: white;
+    background: url(/funge/assets/icon/close_icon_white.svg) center/1em auto no-repeat;
+    border: 0;
+    border-radius: 0.25rem;
+    opacity: .5;
+}
+
+.sign-up .phone_verification_modal .number {
+    color: white;
+}
+
+.sign-up .phone_verification_modal .phone_icon_2 {
+    background: #1C1C1E;
+}
+
+.sign-up .modal_pera span {
+    color: white;
+}
+
+.sign-up .modal-body .input-group {
+    background: transparent !important;
+}
+
+/*--------------------------------------------------
+[2. login and sign up  end 28-2-2022  ]
+--------------------------------------------------*/

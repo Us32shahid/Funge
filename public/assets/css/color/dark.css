@@ -1,0 +1,1599 @@
+/*--------------------------------------------------
+[1. index home page start  ]
+--------------------------------------------------*/
+.header::before,
+.hiro_slider,
+.main,
+.endles,
+.footer_top,
+.new_login .new_sign_up {
+    background: #001413 !important;
+}
+
+.hiro_heading,
+.section_pera,
+.hiro_slider .place_bid_box .info h3,
+.hiro_slider .place_bid_box .info p,
+.hiro_slider .place_bid_box p,
+.hiro_slider .place_bid_box .price_info p,
+.hiro_slider .place_bid_box .price_info h6,
+.hiro_slider .place_bid_box .box_2_info h2,
+.hiro_slider .place_bid_box .box_2_info h4,
+.place_bid_box .icon_btn,
+.hiro_slider .place_bid_box .box_3_info h2,
+.hiro_slider .place_bid_box .box_3_info h3,
+.section_heading,
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr,
+.possibilities-box h3,
+.possibilities-box p,
+.endless-possibilities .gray_box,
+.footer_top h2,
+.footer_top p,
+.footer_top .social_icon .icon_btn,
+.footer p,
+.footer,
+.footer .copy_right,
+.footer h3,
+.footer ul li a,
+.footer .footer_info h6,
+.new_sign_up h2,
+.new_sign_up p {
+    color: white !important;
+}
+
+.place_bid_box .icon_btn svg path {
+    fill: white;
+}
+
+.hiro_slider .place_bid_box,
+.collection .tab-content .tab-pane .table-card,
+.possibilities-box,
+.footer_top .top_resources,
+.endless-possibilities .gray_box,
+.footer {
+    background: #081D25;
+}
+
+.new_login .new_sign_up .nav-item .active {
+    color: #71AFAC !important;
+}
+
+
+/*--------------------------------------------------
+[1. index home page end  ]
+--------------------------------------------------*/
+/*--------------------------------------------------
+[2. login and sign up  start 28-2-2022 ]
+--------------------------------------------------*/
+
+.sign-up .bg-light {
+    background-color: #001413 !important;
+    height: 100vh !important;
+}
+
+.sign-up {
+    background: #081D25;
+
+    height: 100vh !important;
+}
+
+.sign-up .form_section .modal-dialog .btn-close {
+    color: white !important;
+}
+
+.sign-up .modal {
+    background: #00000021;
+
+}
+
+.sign-up .card {
+    background: #081D25;
+}
+
+.sign-up .card .card_heading {
+    color: white;
+}
+
+.sign-up .card .card_pera {
+    color: #9CA3AF;
+}
+
+.sign-up .card .d-flex .ETH {
+    color: white;
+}
+
+.sign-up .card .d-flex .rating {
+    color: #19976A;
+}
+
+.sign-up .card_botom_text {
+    color: white;
+}
+
+.sign-up .bg-white {
+    background-color: #081D25 !important;
+}
+
+.sign-up .carousel-indicators [data-bs-target] {
+    background-color: #E8EBEC !important;
+}
+
+.sign-up .carousel-indicators .active {
+    background-color: #BCE0DF !important;
+}
+
+.sign-up .form .form_heading {
+    color: white;
+}
+
+.sign-up .form_section .form_devder span {
+    color: #71AFAC !important;
+}
+
+.sign-up .form-control {
+    background: #001413;
+    border: 1px solid #E7E8EA;
+}
+
+.sign-up .form-control::placeholder {
+    color: #A0A1AB !important;
+}
+
+
+.sign-up .form_section .form .model_btn {
+    border: 1px solid #D1D5DB !important;
+    color: white !important;
+}
+
+.sign-up .form_section .modal-content {
+    background: #081D25;
+}
+
+.sign-up .form_section .modal-dialog .modal_heading {
+    color: white;
+}
+
+
+.sign-up .phone_verification_modal .number {
+    color: white;
+}
+
+.sign-up .phone_verification_modal .phone_icon_2 {
+    background: #001413;
+}
+
+.sign-up .modal_pera span {
+    color: white;
+}
+
+.sign-up .modal-body .input-group {
+    background: transparent !important;
+}
+
+/*--------------------------------------------------
+[2. login and sign up  end 28-2-2022  ]
+--------------------------------------------------*/
+
+
+
+
+
+
+/*--------------------------------------------------
+[3. main home page  end 2-3-2022  ]
+--------------------------------------------------*/
+
+
+.main_home_content .challenge {
+    background: #081D25;
+}
+
+.main_home_content {
+    background: #001413 !important;
+}
+
+.main_home_content .challenge .content h3 {
+    color: white;
+}
+
+.main_home_content .challenge .content p {
+    color: white;
+}
+
+.main_home_content .challenge .content a {
+    color: #71AFAC;
+}
+
+.main_home_content .challenge .icon {
+    background: #0D3642;
+}
+
+
+.main_home_content .more h3 {
+    color: white;
+}
+
+.main_home_content .more h3::before {
+    background: #A1AEB2;
+
+}
+
+.main_home_content .more a {
+    color: white;
+}
+
+.main_home_content .more .right_arrow svg path {
+    fill: white;
+}
+
+
+.main_home_content .up-to-date {
+    background: #081D25;
+}
+
+.main_home_content .up-to-date h3 {
+    color: white;
+}
+
+.main_home_content .up-to-date a {
+    color: #71AFAC;
+}
+
+.main_home_content .up-to-date .content h5 {
+    color: white;
+}
+
+.main_home_content .artists {
+    background: #0D3642;
+}
+
+.main_home_content .artists h3 {
+    color: white;
+}
+
+
+.main_home_content .artists .artists_info h5 {
+    color: white;
+}
+
+
+.main_home_content .write_post {
+    background: #081D25;
+}
+
+
+.main_home_content .full_post {
+    background: #081D25;
+}
+
+.main_home_content .full_post .back {
+    color: white;
+
+}
+
+.main_home_content .full_post h3 {
+    color: white;
+}
+
+.main_home_content .full_post .more_option svg path {
+    fill: white;
+}
+
+
+.main_home_content .full_post .place_bid {
+    background: transparent;
+}
+
+.main_home_content .full_post .place_bid .offer h6 {
+    color: white;
+}
+
+.main_home_content .full_post .place_bid .offer h5 {
+    color: white;
+}
+
+
+.main_home_content .full_post .place_bid .last {
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+}
+
+.main_home_content .full_post p {
+    color: white;
+}
+
+.main_home_content .full_post .who_like p {
+    color: white;
+}
+
+
+.main_home_content .full_post .re_post_on_my_profile {
+    border: 0.8px solid #D0D7D9;
+}
+
+.main_home_content .full_post .like .icon_btn svg path {
+    fill: white;
+}
+
+.main_home_content .full_post .comment .icon_btn svg path {
+    stroke: white;
+}
+
+.main_home_content .full_post .comment .icon_btn {
+    color: white;
+}
+
+.main_home_content .full_post .share .icon_btn svg path {
+    fill: white;
+}
+
+.main_home_content .full_post .re-post .icon_btn svg path {
+    stroke: white;
+}
+
+
+.main_home_content .top-collections {
+    background:
+        #081D25;
+
+}
+
+.main_home_content .top-collections a {
+    color: #71AFAC;
+}
+
+.main_home_content .top-collections h3 {
+    color: white;
+}
+
+.main_home_content .top-collections .collaction_1 h2 {
+    color: white;
+}
+
+.main_home_content .top-collections .collaction_1 .collactin_info h3 {
+    color: white;
+}
+
+.main_home_content .top-collections .collaction_1 .collactin_info .ETH_info h4 {
+    color: white;
+}
+
+.main_home_content .write_post .box {
+    background: transparent;
+}
+
+@media(max-width:425px) {
+
+    .main_home_content .write_post .box .form-control {
+        background: #0D3642;
+    }
+
+    .main_home_content .write_post .box {
+        background-color: transparent;
+        padding: 0;
+
+    }
+
+}
+
+
+
+/* main_home_content section end */
+
+
+/* click on comment section style start  */
+.main_home_content .full_post .comment_click_section {
+    border-top: 2px solid #d0d7d942;
+}
+
+.main_home_content .full_post .comment_click_section .card-body {
+
+    border-left: 2px solid #d0d7d942;
+}
+
+.main_home_content .full_post .comment_click_section .card-body .write_comment {
+    border-bottom: 2px solid #d0d7d942;
+}
+
+.main_home_content .full_post .comment_click_section .card-body .write_comment .box {
+    background: #0D3642;
+}
+
+.main_home_content .full_post .comment_click_section .card-body .write_comment .comment_fuction .btn-primary:hover {
+    background-color: transparent !important;
+}
+
+.main_home_content .full_post .comment_click_section .card-body .comment_replay {
+    border-bottom: 2px solid #d0d7d942;
+}
+
+.main_home_content .full_post .comment_click_section .card-body .comment_replay .user_profile_icon .user_info h3 {
+    color: white;
+}
+
+.main_home_content .full_post .comment_click_section .card-body .comment_replay .user_profile_icon .user_info h4 {
+    color: white;
+}
+
+.main_home_content .full_post .comment_click_section .card-body .comment_replay .user_profile_icon .user_info span {
+    color: #71AFAC;
+}
+
+.main_home_content .full_post .comment_click_section .card-body .comment_replay .user_replay {
+    color: white;
+}
+
+.main_home_content .full_post .comment_click_section .card-body .comment_replay .user_replay {
+    color: white;
+}
+
+@media(max-width:425px) {
+    .main_home_content .full_post .comment_click_section .card-body .write_comment .box {
+        background-color: transparent;
+    }
+
+    .main_home_content .full_post .comment_click_section .card-body .write_comment .box form {
+        background-color: #0D3642;
+    }
+}
+
+/* click on comment section style end*/
+
+
+
+/* more option section style start 10-3-2022  */
+
+.main_home_content .full_post .more_option_drop_down {
+    background: #0D3642;
+}
+
+.main_home_content .full_post .more_option_drop_down .more_option_content h2 {
+    color: white;
+}
+
+.main_home_content .full_post .more_option_drop_down .more_option_content p {
+    color: white;
+}
+
+.main_home_content .full_post .more_option:focus {
+    background-color: #0D3642;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+/* more option section style end */
+
+
+/* new header  */
+.main_home_content .returning_user_home_header {
+    background: #081D25;
+}
+
+.main_home_content .returning_user_home_header .navbar .language .btn-secondary {
+    background: #0D3642 !important;
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .input-group .form-control {
+    background: #0D3642;
+}
+
+.main_home_content .returning_user_home_header .navbar .input-group .input-group-text {
+    background: #0D3642;
+}
+
+.main_home_content .returning_user_home_header .navbar .input-group .input-group-text svg path {
+    stroke: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .input-group .input-group-text svg circle {
+    stroke: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .language .btn-secondary svg path {
+    fill: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .menu .dropdown .btn-secondary {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .menu .dropdown .btn-secondary:focus {
+    color: #0D3642 !important;
+}
+
+.main_home_content .returning_user_home_header .navbar .menu .dropdown .btn-secondary:hover {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .profile .dropdown .btn-secondary {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .profile .dropdown .btn-secondary svg path {
+    fill: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .menu .dropdown-menu {
+    background: #0D3642 !important;
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .menu .dropdown-menu .menu_list a {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .menu .dropdown-menu .menu_list svg path {
+    fill: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .menu .dropdown-menu h2 {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .menu .dropdown-menu .join_community_section h3 {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .icon .settings .dropdown-menu {
+    background-color: #081d25 !important;
+}
+
+.main_home_content .returning_user_home_header .navbar .icon .settings .setting_more_option_content h2,
+.main_home_content .returning_user_home_header .navbar .icon .settings .setting_more_option_content p {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .icon .settings .dropdown-menu .user_profile {
+    background: #0d3642;
+}
+
+.main_home_content .returning_user_home_header .navbar .icon .settings .dropdown-menu .user_profile h2,
+.main_home_content .returning_user_home_header .navbar .icon .settings .dropdown-menu .user_profile p {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .icon .settings .dropdown-menu hr {
+    background: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .notification .dropdown-menu {
+    background: #0D3642;
+}
+
+.main_home_content .returning_user_home_header .navbar .notification .dropdown-menu h2,
+.main_home_content .returning_user_home_header .navbar .notification .dropdown-menu .tab-content .all_content h3,
+.main_home_content .returning_user_home_header .navbar .notification .dropdown-menu .tab-content .all_content h6 {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .notification .dropdown-menu .nav-pills .nav-link {
+    color: white !important;
+    background: #081D25;
+}
+
+.main_home_content .returning_user_home_header .navbar .notification .dropdown-menu .nav-pills .nav-item .active {
+    background: white;
+    color: black !important;
+}
+
+.main_home_content .returning_user_home_header .navbar .notification .dropdown-menu .more_icon path {
+    fill: white;
+}
+
+
+
+.main_home_content .returning_user_home_header .navbar .profile .dropdown-menu {
+    background-color: #081d25 !important;
+}
+
+.main_home_content .returning_user_home_header .navbar .profile .setting_more_option_content h2,
+.main_home_content .returning_user_home_header .navbar .profile .setting_more_option_content p {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .profile .dropdown-menu .user_profile {
+    background: #0d3642;
+}
+
+.main_home_content .returning_user_home_header .navbar .profile .dropdown-menu .user_profile h2,
+.main_home_content .returning_user_home_header .navbar .profile .dropdown-menu .user_profile p {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .profile .dropdown-menu hr {
+    background: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .message .dropdown-menu {
+    background: #0D3642;
+}
+
+.main_home_content .returning_user_home_header .navbar .message .dropdown-menu h2,
+.main_home_content .returning_user_home_header .navbar .message .dropdown-menu .tab-content .all_content h3,
+.main_home_content .returning_user_home_header .navbar .message .dropdown-menu .tab-content .all_content h6,
+.main_home_content .returning_user_home_header .navbar .message .dropdown-menu .tab-content .all_content p {
+    color: white;
+}
+
+.main_home_content .returning_user_home_header .navbar .message .dropdown-menu .nav-pills .nav-link {
+    color: white !important;
+    background: #081D25;
+}
+
+.main_home_content .returning_user_home_header .navbar .message .dropdown-menu .nav-pills .nav-item .active {
+    background: white;
+    color: black !important;
+}
+
+.main_home_content .returning_user_home_header .navbar .message .dropdown-menu .more_icon path {
+    fill: white;
+}
+
+/* new header  */
+
+
+/*--------------------------------------------------
+[3. main home page  end   ]
+--------------------------------------------------*/
+
+
+/*--------------------------------------------------
+[3. profile page start  15-3-2022    ]
+--------------------------------------------------*/
+
+.profile_content .profile_box,
+.profile_content .main_content .folder_collaction,
+.profile_content .main_content .wallet-address {
+    background: #081D25;
+}
+
+.profile_content .main_content .wallet-address h3,
+.profile_content .main_content .wallet-address p,
+.profile_content .main_content .activity_info .nav-pills .nav-link,
+.profile_content .profile_box .follow_info .follower p,
+.profile_content .profile_box .follow_info .Following p,
+.profile_content .profile_box .follow_info .date p,
+.profile_content .profile_box .follow_info .floor,
+.profile_content .profile_box .follow_info .floor span,
+.profile_content .profile_box .follow_info .floor p,
+.profile_content .profile_box .follow_info .Volume p,
+.profile_content .profile_box .follow_info .Volume span,
+.profile_content .profile_box .follow_info .Following span,
+.profile_content .profile_box .quick_profile_info h4,
+.profile_content .profile_box .follow_info .follower span {
+    color: white;
+}
+
+.profile_content .main_content .wallet-address .folder {
+    background: #0D3642;
+}
+
+@media(max-width:767px) {
+    .profile_content .mobile_box {
+        background-color: #001413;
+    }
+
+    .main_content .profile_box .back {
+        color: white !important;
+    }
+
+    .main_content .profile_box .back figure svg path {
+        fill: white;
+    }
+
+    .profile_content .profile_box .mobile_box .follow_info_mobile p {
+        color: white;
+    }
+
+    .profile_content .profile_box .mobile_box .follow_info_mobile .bg-light {
+        background: #081D25 !important;
+    }
+
+    .profile_content .profile_box .mobile_box .follow_info_mobile .flor_vol h2 {
+        color: white;
+    }
+
+    .profile_content .profile_box .mobile_box .follow_info_mobile .flor_vol h3 {
+        color: white;
+    }
+
+    .profile_content .main_content {
+        background-color: #0D3642;
+    }
+
+    .profile_content .profile_box,
+    .profile_content .main_content .folder_collaction,
+    .profile_content .main_content .wallet-address {
+        background: transparent;
+    }
+
+    .profile_content .main_content .mobile_social_media {
+        background-color: #001413;
+    }
+
+    .profile_content .main_content .activity_info .nav-pills .nav-link {
+        background: #001413;
+    }
+}
+
+/*--------------------------------------------------
+[3. profile page end    ]
+--------------------------------------------------*/
+
+/*--------------------------------------------------
+[4. search page start    ]
+--------------------------------------------------*/
+.main_home_content .search_section {
+    background: #081D25;
+}
+
+.main_home_content .search_section .nft_listing .nft_details p {
+    color: white;
+}
+
+.main_home_content .search_section .nav-pills {
+    background: #001413;
+}
+
+.main_home_content .search_section .nav-pills .nav-item .nav-link {
+    color: white;
+}
+
+/*--------------------------------------------------
+[4. search page end    ]
+--------------------------------------------------*/
+
+
+/*--------------------------------------------------
+[5. create post modal start    ]
+--------------------------------------------------*/
+
+.create_post_model .modal .modal-content {
+    background: #0D3642;
+    color: white;
+}
+
+.create_post_model .modal .modal-body .nft_post {
+    background: #081D25;
+}
+
+.create_post_model .modal .modal-body .nft_post h3 {
+    color: white;
+}
+
+.create_post_model .modal .edite_post h3 {
+    color: white;
+}
+
+.create_post_model .modal .edite_post .form-select {
+    background: transparent;
+    color: white;
+}
+
+.create_post_model .modal .edite_post .form-control {
+    background: transparent;
+}
+
+.create_post_model .modal .edite_post .type_of_sell h3 {
+    color: white;
+}
+
+.create_post_model .modal .post_review h3,
+.create_post_model .modal .post_review p {
+    color: white;
+}
+
+.create_post_model .modal .post_review .btn-primary,
+.create_post_model .modal .post_review .btn-secondary {
+    color: white !important;
+}
+
+.create_post_model .modal .back .icon_btn {
+    color: white !important;
+}
+
+.create_post_model .modal .back .icon_btn path {
+    fill: white;
+}
+
+.create_post_model .modal button svg path {
+    fill: white;
+}
+
+.create_post_model .modal .select_folder .btn-secondary {
+    color: white !important;
+}
+
+/*--------------------------------------------------
+[5. create post modal end    ]
+--------------------------------------------------*/
+
+/*--------------------------------------------------
+[6. explore post modal start ]
+--------------------------------------------------*/
+.explore .heading,
+.explore .filter_heading h4,
+.explore .archive_heading,
+.explore .archive_heading span {
+    color: white;
+}
+
+.explore .filter_btn_row .btn-secondary {
+    background: #71AFAC !important;
+    color: white;
+    border: none;
+}
+
+.explore .filter_btn_row .btn-secondary:focus {
+    color: black;
+    border: none;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu {
+    background-color: #0D3642;
+    box-shadow: none;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu .collection .input-group {
+    background: transparent;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu .collection .form-control {
+    background: transparent;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu .collection .input-group-text {
+    background: transparent;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu .collection .input-group-text svg path {
+    stroke: white;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu .collection .input-group-text svg circle {
+    stroke: white;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu .collection .scroll {
+    background-color: #000000;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu .collection .scroll h2 {
+    color: white;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu .date_range button {
+    background: #081D25;
+    color: white;
+}
+
+.explore .filter_btn_row .dropdown .dropdown-menu .form-check .form-check-label {
+    color: white !important;
+}
+
+.explore .nft_box {
+    background-color: #0D3642;
+}
+
+.explore .nft_box .profile_name h2 {
+    color: white;
+}
+
+.explore .nft_box .nft_details h2 {
+    color: white;
+}
+
+.explore .nft_box .nft_details h4 {
+    color: white;
+}
+
+/*--------------------------------------------------
+[6. explore post modal end ]
+--------------------------------------------------*/
+
+/*--------------------------------------------------
+[7. explore nft detais modal end ]
+--------------------------------------------------*/
+.nft_detials .full_img,
+.nft_detials .right_side .nft_info,
+.nft_detials .right_side .sales,
+.nft_detials .right_side .tab_section,
+.new_explore_page .item_listing .item {
+    background-color: #081D25;
+}
+
+.nft_detials .full_img .icon .icon_btn,
+.nft_detials .left_side .all_commetn h3,
+.nft_detials .left_side .comment_detail .info h3,
+.nft_detials .left_side .comment_detail .info h2,
+.nft_detials .left_side .comment_detail .info p,
+.nft_detials .info .icon .icon_btn,
+.nft_detials .right_side .nft_info .name h2,
+.nft_detials .right_side .nft_info .creator_info h2,
+.nft_detials .right_side .nft_info .creator_info h3,
+.nft_detials .right_side .nft_info .price_info h2,
+.nft_detials .right_side .nft_info .price_info p,
+.nft_detials .right_side .nft_info .price_info h3,
+.nft_detials .right_side .nft_info .price_info span,
+.nft_detials .right_side .sales h3,
+.nft_detials .right_side .sales h2,
+.nft_detials .right_side .sales p,
+.nft_detials .right_side .tab_section .nav-pills .nav-item .nav-link,
+.nft_detials .right_side .tab_section .description p,
+.nft_detials .right_side .tab_section .owner h2,
+.nft_detials .right_side .tab_section .owner h3,
+.nft_detials .right_side .tab_section .properties h2,
+.nft_detials .right_side .tab_section .properties .col-bg h2,
+.nft_detials .right_side .tab_section .properties .col-bg h3,
+.nft_detials .right_side .tab_section .properties .col-bg p,
+.nft_detials .right_side .tab_section .tag h2,
+.nft_detials .right_side .tab_section .offer .table thead tr th h2,
+.nft_detials .right_side .tab_section .offer .offer_info h2,
+.nft_detials .right_side .tab_section .offer .offer_info span,
+.nft_detials .right_side .tab_section .offer .table tbody tr td h3,
+.nft_detials .right_side .tab_section .activity_tab .tab-content .sale h2,
+.nft_detials .right_side .tab_section .activity_tab .tab-content .sale_info .info h3,
+.nft_detials .right_side .tab_section .activity_tab .tab-content .sale_info .info h2,
+.nft_detials .right_side .tab_section .activity_tab .tab-content .sale_info .info_2 h5,
+.nft_detials .right_side .tab_section .activity_tab .tab-content .sale_info .info h4,
+.nft_detials .right_side .tab_section .activity_tab .tab-content .sale_info .info_2 h6,
+.nft_detials .right_side .tab_section .tab-content .price_history .dropdown .btn-secondary,
+.explore .icon_btn,
+.new_explore_page .item_listing .heading {
+
+    color: white;
+}
+
+.nft_detials .right_side .tab_section .nav-pills .nav-item .active {
+
+    color: #71AFAC;
+
+}
+
+.nft_detials .full_img .icon .icon_btn svg path {
+    stroke: white;
+}
+
+.nft_detials .right_side .nft_info .icon_btn svg path {
+    fill: white;
+}
+
+.nft_detials .right_side .tab_section .properties .col-bg {
+    background-color: #3E5E68;
+}
+
+.nft_detials .left_side .comment_section .input_aria {
+    background-color: #0D3642;
+}
+
+.nft_detials .left_side .comment_section .input_aria .form-control {
+    color: white;
+}
+
+.nft_detials .left_side .comment_section .input_aria .form-control::placeholder {
+    color: white;
+}
+
+.nft_detials .full_img .icon .icon_row .mobile_title {
+    color: white;
+}
+
+.nft_detials .right_side .tab_section .tag a {
+    background-color: #3E5E68;
+    color: white;
+}
+
+.nft_detials .right_side .tab_section .activity_tab .nav-pills .nav-item .nav-link {
+    color: white;
+}
+
+.nft_detials .right_side .tab_section .activity_tab .nav-pills .nav-item .active {
+    color: white;
+    background-color: #71AFAC;
+    border: 1px solid transparent;
+}
+
+.nft_detials .full_img .back svg path {
+    fill: white;
+}
+
+.nft_detials .full_img .back h3 {
+    color: white;
+}
+
+.nft_detials .left_side .offcanvas-bottom {
+    background-color: #0D3642;
+}
+
+.nft_detials .left_side .all_commetn h2 {
+    color: white;
+}
+
+.nft_detials .left_side .offcanvas-bottom .offcanvas-body .comment_section .input_aria .form-control {
+    background-color: #3E5E68;
+}
+
+.nft_detials .left_side .offcanvas-bottom .offcanvas-body .comment_section .input_aria .form-control::placeholder {
+    color: white;
+}
+
+/*--------------------------------------------------
+[7. explore nft detais modal end ]
+--------------------------------------------------*/
+
+/*--------------------------------------------------
+[8. explore wallet page  start ]
+--------------------------------------------------*/
+
+.wallet_page .left_box,
+.wallet_page .right_box {
+    background-color: #081D25;
+}
+
+.wallet_page .market_value h3,
+.wallet_page .market_value h2,
+.wallet_page .market_value h4,
+.wallet_page .center_box h3,
+.wallet_page .center_box .tab_section .box .info h2,
+.wallet_page .center_box .tab_section .box .info h3,
+.wallet_page .center_box .tab_section .box h4,
+.create_post_model .modal .modal-body .modal_heading,
+.wallet_page .manage_wallet_modal .qr_modal_body p,
+.wallet_page .manage_wallet_modal .qr_modal_body .amount,
+.wallet_page .manage_wallet_modal .qr_modal_body h3,
+.wallet_page .manage_wallet_modal .qr_modal_body .qr_box h3,
+.wallet_page .manage_wallet_modal .qr_modal_body .qr_box h2,
+.wallet_page .manage_wallet_modal .qr_modal_body .qr_box h4,
+.wallet_page .right_box .polgon_sectoin h2,
+.wallet_page .right_box .polgon_sectoin p {
+    color: white;
+}
+
+.wallet_page .center_box .tab_section .box,
+.wallet_page .manage_wallet_modal .qr_modal_body .price,
+.wallet_page .manage_wallet_modal .qr_modal_body .qr_box,
+.wallet_page .right_box .polgon_sectoin {
+    background-color: #3E5E68;
+}
+
+@media(max-width:767px) {
+    .wallet_page .center_box .tab_section .box {
+        background: transparent;
+    }
+}
+
+.wallet_page .manage_wallet_modal .search_sectio .input-group {
+    background: #3E5E68;
+    border: none;
+}
+
+.wallet_page .manage_wallet_modal .search_sectio .input-group .form-control::placeholder {
+    color: white;
+}
+
+.wallet_page .manage_wallet_modal .search_sectio .input-group .form-control {
+    color: white;
+}
+
+.wallet_page .manage_wallet_modal .search_sectio .input-group .input-group-text svg circle,
+.wallet_page .manage_wallet_modal .search_sectio .input-group .input-group-text svg path {
+    stroke: white;
+}
+
+
+.wallet_page .center_box .tab_section .box:focus {
+    background-color: #71AFAC;
+}
+
+.wallet_page .center_box .tab_section .manage_wallet {
+    background: transparent;
+    color: white;
+}
+
+
+
+/*--------------------------------------------------
+[8. explore wallet page  end ]
+--------------------------------------------------*/
+
+
+/*--------------------------------------------------
+[9.  individual_crupto page   start ]
+--------------------------------------------------*/
+
+.wallet_page .center_box .crupto_detail .back button,
+.wallet_page .crupto_detail_qr_code .modal_heading,
+.wallet_page .crupto_detail_qr_code p,
+.wallet_page .crupto_detail_qr_code .amount,
+.wallet_page .crupto_detail_qr_code .matic h3,
+.wallet_page .crupto_detail_qr_code h6,
+.wallet_page .center_box .crupto_detail .mobile_info .title,
+.wallet_page .center_box .crupto_detail .mobile_info .value,
+.wallet_page .center_box .crupto_detail .info h2,
+.wallet_page .center_box .crupto_detail .info .table .title,
+.wallet_page .center_box .crupto_detail .info .table .value,
+.wallet_page .center_box .crupto_detail .info .table .lable,
+.wallet_page .withdrow h4,
+.wallet_page .withdrow .withdrow_details h2,
+.wallet_page .withdrow .withdrow_details p,
+.wallet_page .withdrow .withdrow_details h3,
+.wallet_page .transaction_summary .transaction_info h3,
+.wallet_page .transaction_summary .transaction_info h2,
+.wallet_page .transaction_summary .transaction_info h4,
+.wallet_page .transaction_summary .transaction_info h5,
+.wallet_page .successfully h6 {
+    color: white;
+}
+
+.wallet_page .crupto_detail_qr_code .price {
+    color: white;
+    background: #3E5E68;
+}
+
+.wallet_page .crupto_detail_qr_code .qr_box,
+.wallet_page .center_box .crupto_detail .main_price_box,
+.wallet_page .withdrow .withdrow_details,
+.wallet_page .withdrow .wallet_address .input-group {
+    background: #3E5E68;
+}
+
+.wallet_page .withdrow .wallet_address .input-group .form-control::placeholder {
+    color: white;
+}
+
+.wallet_page .center_box .crupto_detail .main_price_box .price_info_box {
+    background-color: #71AFAC;
+}
+
+.wallet_page .center_box .dropdown .btn-secondary {
+    background-color: #71AFAC !important;
+    color: white;
+}
+
+.wallet_page .center_box .dropdown .btn-secondary:focus {
+    background-color: #71AFAC !important;
+    color: white;
+}
+
+.wallet_page .center_box .dropdown .btn-secondary:hover {
+    background-color: #71AFAC !important;
+    color: white;
+}
+
+.wallet_page .center_box .dropdown .btn-secondary svg path {
+    fill: white;
+}
+
+.wallet_page .center_box .crupto_detail .back button svg path {
+    fill: white;
+}
+
+/*--------------------------------------------------
+[9.  individual_crupto page   end ]
+--------------------------------------------------*/
+/*--------------------------------------------------
+[10.  media  page   start ]
+--------------------------------------------------*/
+.reward h2,
+.reward p,
+.reward h3,
+.top_resources .post_header h2,
+.top_resources .post_header p,
+.top_resources .post_box h2,
+.top_resources .post_box p,
+.top_resources .post_box .info h3,
+.articals_page .tab_section .nav-pills .nav-item .nav-link,
+.artical_detail .actical_title_info h2,
+.artical_detail .actical_title_info .info h3,
+.artical_detail .artical_pera,
+.articals_page .heading,
+.artical_detail .artical_review h2,
+.artical_detail .artical_review h3 {
+    color: white;
+}
+
+.top_resources .post_box .post_bottom_info svg path {
+    fill: white;
+}
+
+.articals_page .tab_section .nav-pills,
+.articals_page .search,
+.articals_page .artical_review {
+    background-color: #3E5E68;
+}
+
+/*--------------------------------------------------
+[10.  media  page   end ]
+--------------------------------------------------*/
+/*--------------------------------------------------
+[11.  daily challenge page start ]
+--------------------------------------------------*/
+.daily_challenges .daily_challange_list,
+.daily_challenges .navigation {
+    background: #081D25;
+}
+
+
+.daily_challenges .navigation .nav .nav-link,
+.daily_challenges .Leaderboard h2,
+.daily_challenges .Leaderboard .table-responsive .table thead h2,
+.daily_challenges .Leaderboard .table-responsive .table tbody h3,
+.daily_challenges .daily_challange_list h2,
+.daily_challenges .daily_challange_list ul li .info p,
+.daily_challenges .your_reward_header h3,
+.daily_challenges .your_reward .reward_box h3,
+.daily_challenges .your_reward_header p,
+.daily_challenges .daily_challange_list ul li .info h2 {
+    color: white;
+}
+
+.daily_challenges .right_arrow path {
+    fill: white;
+}
+
+.daily_challenges .your_reward .reward_box,
+.daily_challenges .mobile_tab .nav-pills .nav-link {
+    background-color: transparent;
+    color: white;
+}
+
+.daily_challenges .level {
+    background: #0D3642;
+}
+
+.setting_page .setting .heading,
+.setting_page .setting_info .general_setting .nav-link,
+.setting_page .setting_info .setting_content .setting_heading,
+.setting_page .setting_info .setting_content .form_section .form_heading,
+.setting_page .setting_info .setting_content .form_section .form-label,
+.setting_page .setting_info .setting_content .form_section h3,
+.setting_page .setting_info .setting_content .accordion .accordion-item,
+.setting_page .setting_info .setting_content .accordion .accordion-button,
+.setting_page .setting_info .setting_content .accordion .accordion-body p,
+.setting_page .setting_info .setting_content .switch h3,
+.setting_page .setting_info .setting_content .switch p,
+.setting_page .setting_info .setting_content .privacy_policy h1,
+.setting_page .setting_info .setting_content .privacy_policy p {
+    color: white;
+}
+
+.setting_page .setting_info .setting_content {
+    background: #081D25;
+}
+
+.setting_page .setting_info .setting_content .form_section .form-control,
+.setting_page .setting_info .setting_content .form_section .input-group,
+.setting_page .setting_info .setting_content .help_center .form-control,
+.collaction_page .profile_box .btn-group .btn-1,
+.collaction_page .profile_box .btn-group .btn-2,
+.collaction_page .collaction_list .fillter_aria .price .form-control {
+    background-color: #3E5E68 !important;
+    color: white;
+}
+
+.setting_page .setting_info .setting_content .form_section .form-control::placeholder,
+.setting_page .setting_info .setting_content .help_center .form-control::placeholder {
+    color: white;
+}
+
+.setting_page .setting_info .setting_content .accordion .accordion-item,
+.setting_page .setting_info .setting_content .accordion .accordion-button {
+    background: transparent !important;
+}
+
+.collaction_page .profile_box h2,
+.collaction_page .profile_box .iteam h3,
+.collaction_page .profile_box .owner h3,
+.collaction_page .profile_box .floor h2,
+.collaction_page .profile_box .Volume h4,
+.collaction_page .profile_box .Volume h2,
+.collaction_page .profile_box .floor h4,
+.collaction_page .profile_box .filter_btn_row .dropdown .btn-secondary,
+.collaction_page .collaction_list .fillter_aria .status .icon_btn,
+.collaction_page .collaction_list .fillter_aria .price .button_grop h3 {
+    color: white;
+}
+
+.collaction_page .profile_box .input-group .input-group-text svg circle {
+    stroke: white;
+}
+
+.collaction_page .profile_box .input-group .input-group-text svg path {
+    stroke: white;
+}
+
+.collaction_page .collaction_list .fillter_aria .status,
+.collaction_page .collaction_list .fillter_aria .status .card-body {
+    background: #0D3642;
+}
+
+/*--------------------------------------------------
+[11.  daily challenge page end ]
+--------------------------------------------------*/
+
+/* new home page start */
+.main_home_content .returning_user_home_header {
+    border: none;
+}
+
+.new_home .left_menu_btn,
+.new_home .left_menu_btn .icon_btn,
+.new_home .left_menu_btn .accordion-flush .accordion-item,
+.main_home_content .make_post,
+.new_home .notificaiton_module .notification,
+.new_home .notificaiton_module .top_collaction,
+.create_new_iteam_page .upload_nft_img,
+.create_new_iteam_page .Choose_collcation,
+.create_new_iteam_page .nft_details,
+.create_new_iteam_page .type_of_sell,
+.nft_detials .main,
+.new_login .bottom_info .btn,
+.new_explore_page .nft_detials .full_comment_section,
+.create_new_iteam_page .Properties,
+.create_new_iteam_page .preview_box,
+.create_new_iteam_page .review_post_modal .modal-content,
+.nft_post_page .modal-content,
+.new_explore_page .top_collcation,
+.new_explore_page .tranding_Creator,
+.new_explore_page .tranding_nft .item_table,
+.returning_user_home_header .offcanvas-end,
+.new_explore_page .nft_detials .right_side .tab_section,
+.new_explore_page .nft_detials .price_history,
+.user_click_on_collaction .creator_profil_info,
+.profile_content .main_content .activity_info,
+.checkout_modal .modal-content,
+.new_login .right_col,
+.follower_modal .modal-content,
+.wallet_page .curent_balance_section,
+.wallet_page .center_box .tab_section,
+.profile_content .profile_box,
+.profile_content .main_content .wallet-address,
+.Edite_profile_page .edite_profile,
+.Edite_profile_page .setting_links,
+.new_login .sign_up .sign_up_btn {
+    background: #0D3642 !important;
+}
+
+.main_home_content .returning_user_home_header {
+    border: none !important;
+}
+
+.creator_page .tranding_Creator {
+    background: transparent;
+}
+
+
+
+
+.cart_off_canvas .btn-close {
+    filter: brightness(0) invert(1)
+}
+
+.new_explore_page .top_collcation h2,
+.new_login .sign_up .sign_up_btn,
+.wallet_page .curent_balance_section h2,
+.follower_modal .modal-content h3,
+.follower_modal .follower h2,
+.new_login .bottom_info .btn,
+.wallet_page .curent_balance_section h3,
+.wallet_page .curent_balance_section h5,
+.Edite_profile_page .edite_profile .input_box .form-label,
+.Edite_profile_page .setting_links ul li a,
+.checkout_modal .modal-title,
+.user_click_on_collaction .creator_profil_info .flor_info p,
+.user_click_on_collaction .creator_profil_info .flor_info h2,
+.returning_user_home_header .offcanvas-end,
+.Edite_profile_page .edite_profile h2,
+.user_click_on_collaction .creator_profil_info .name h2,
+.new_explore_page .tranding_nft .item_table,
+.new_explore_page .nft_detials .price_history h2,
+.new_explore_page .nft_detials .price_history .btn-secondary,
+.new_explore_page .item_listing .item .item_info h2,
+.new_explore_page .item_listing .item .item_info .price,
+.new_explore_page .item_listing .item .item_info h4,
+.new_explore_page .collaction_info h3,
+.new_explore_page .collaction_info h4,
+.new_home .left_menu_btn .icon_btn,
+.creator_page p,
+.create_new_iteam_page .upload_nft_img p,
+.new_home .left_menu_btn .icon_btn:not(.collapsed),
+.new_explore_page .tranding_nft .heading,
+.new_home .new_heading,
+.main_home_content .post_switch .full_post .post_decription,
+.main_home_content .make_post h2,
+.main_home_content .make_post p,
+.create_new_iteam_page .review_post_modal .modal-content h2,
+.create_new_iteam_page .review_post_modal .modal-content p,
+.nft_post_page h3,
+.nft_post_page p,
+.create_new_iteam_page .heading_2,
+.create_new_iteam_page .nft_details .form-label,
+.main_home_content .make_post h4,
+.new_home .left_menu_btn .accordion-body a,
+.new_home .notificaiton_module .notification .notification_info h2,
+.new_home .notificaiton_module .notification .notification_info .notification_details h6,
+.new_home .notificaiton_module .top_collaction h2,
+.new_home .notificaiton_module .top_collaction .collcation_info h3,
+.new_home .notificaiton_module .top_collaction .collcation_info h4,
+.new_home .notificaiton_module .top_collaction .collcation_info h2,
+.create_new_iteam_page .create h2,
+.new_home .notificaiton_module .notification .nav-item .active,
+.create_new_iteam_page .heading,
+.create_new_iteam_page .create p,
+.create_new_iteam_page .preview_box h4,
+.create_new_iteam_page .preview_box .nft_info h2,
+.create_new_iteam_page .preview_box .nft_info h4,
+.create_new_iteam_page .preview_box .nft_info .price,
+.create_new_iteam_page .type_of_sell h3,
+.create_new_iteam_page .type_of_sell .tab-content p,
+.create_new_iteam_page .Properties p,
+.new_explore_page .tranding_Creator .creator_info h2,
+.new_collaction_page .heading,
+.new_collaction_page .nav .nav-link,
+.new_explore_page .tranding_Creator .creator_info p,
+.new_explore_page .tranding_Creator h2,
+.new_explore_page .trending_nfts .nft_info h3,
+.new_explore_page .trending_nfts .nft_info h4,
+.new_explore_page .trending_nfts .nft_info .icon_btn,
+.cart_off_canvas .no_of_listing h2,
+.cart_off_canvas .no_of_listing h3,
+.cart_off_canvas .item .heading,
+.cart_off_canvas .item .info .name h2,
+.cart_off_canvas .item .info .name h3,
+.cart_off_canvas .full_price_info h2,
+.cart_off_canvas .full_price_info h3,
+.cart_off_canvas .total h4,
+.user_click_on_collaction .creator_profil_info .follow_info h3,
+.profile_content .main_content .wallet-address h4,
+.profile_content .main_content .desktop_social_icon .icon .icon_btn,
+.website_info .icon_btn,
+.profile_content .main_content .follow_details,
+.nft_detials .right_side .nft_info .price_info h2,
+.nft_detials .right_side .nft_info .price_info h3,
+.wallet_page .right_box .token_Section h2,
+.wallet_page .right_box .token_Section h3,
+.wallet_page .right_box .token_Section h4,
+.wallet_page .right_box .token_Section section p,
+.wallet_page .heading,
+.wallet_page .select_netwokr_drop_down h3,
+.wallet_page .nft_listing h2,
+.wallet_page .nft_listing p,
+.wallet_page .center_box .crupto_detail .main_price_box .price_info_box h5,
+.wallet_page .center_box .crupto_detail .main_price_box .price_info_box h3,
+.wallet_page .center_box .crupto_detail .main_price_box .price_info_box h2,
+.manage_wallet .select_currency,
+.manage_wallet .qr_code_section .copy .icon_btn,
+.manage_wallet .qr_code_section .code h3,
+.manage_wallet .successfully_second h2 {
+    color: white !important;
+}
+
+
+.manage_wallet .qr_code_section .qr_img path {
+    fill: white;
+}
+
+.wallet_page .curent_balance_section h4 {
+    border-right: 1px solid white;
+}
+
+.wallet_page .right_box .token_Section section {
+    border-top: 1px solid white;
+}
+
+.wallet_page .select_netwokr_drop_down .btn-secondary {
+    background: #71AFAC !important;
+}
+
+.profile_content .main_content .wallet-address .icon_btn svg path {
+    fill: white;
+}
+
+.cart_off_canvas .item .info .price h5,
+.cart_off_canvas .full_price_info h4,
+.cart_off_canvas .total h5 {
+    color: #71AFAC;
+}
+
+.new_explore_page .collaction_info h5 {
+    border-left: 1px solid white;
+}
+
+.new_home .notificaiton_module .notification .nav-item .active,
+.profile_content .main_content .mobile_social_media,
+.create_new_iteam_page .upload_nft_img .upload_box,
+.checkout_modal .funge-token .info,
+.checkout_modal .nft_item_details .total,
+.profile_content .mobile_box,
+.profile_content .profile_box .mobile_box .follow_info_mobile .bg-light,
+.create_new_iteam_page .create,
+.create_new_iteam_page .nft_details .form-control,
+.create_new_iteam_page .nft_details .input-group,
+.create_new_iteam_page .type_of_sell .form-control,
+.cart_off_canvas .no_of_listing,
+.create_new_iteam_page .Properties .form-control,
+.cart_off_canvas .funge_token,
+.new_explore_page .nft_detials .tranding_Creator .bg_light,
+.checkout_modal .no-of-item,
+.wallet_page .center_box .crupto_detail .main_price_box .price_info_box,
+.wallet_page .right_box .token_Section,
+.user_click_on_collaction .creator_profil_info .follow_info,
+.new_explore_page .nft_detials .left_side .comment_section .input_aria,
+.create_post_model .nft_post,
+.profile_content .main_content .wallet-address .copy,
+.profile_content .main_content .desktop_social_icon .icon .icon_btn,
+.profile_content .main_content .follow_details,
+.follower_modal .input-group,
+.Edite_profile_page .social_media .input-group,
+.Edite_profile_page .edite_profile .input_box .form-control {
+    background: #71afac3d !important;
+}
+
+.follower_modal .input-group .input-group-text svg path {
+    stroke: white;
+}
+
+.Edite_profile_page .social_media .input-group .input-group-text svg path {
+    fill: white;
+}
+
+.Edite_profile_page .social_media .input-group .form-control::placeholder,
+.Edite_profile_page .edite_profile .input_box .form-control {
+    color: white;
+}
+
+.follower_modal .input-group .input-group-text svg circle {
+    stroke: white;
+}
+
+.follower_modal .input-group .form-control::placeholder {
+    color: white !important;
+}
+
+
+.new_explore_page .tranding_Creator .creator_info,
+.manage_wallet .qr_code_section .code,
+.manage_wallet .qr_code_section .info {
+    background: #71afac3d;
+    border: none;
+}
+
+.create_post_model .nft_post svg path {
+    fill: white;
+}
+
+
+.new_home .left_menu_btn .icon_btn .arrow path {
+    fill: white;
+}
+
+.main_home_content .write_post .box .form-control::placeholder {
+    color: white;
+}
+
+.main_home_content .post_switch .search .input-group {
+    background: #0d3642;
+    border: none;
+}
+
+.main_home_content .post_switch .search .input-group .input-group-text svg circle,
+.main_home_content .post_switch .search .input-group .input-group-text svg path {
+    stroke: white;
+}
+
+.main_home_content .make_post a {
+    background: #081D25;
+}
+
+.main_home_content .make_post a .arrow path {
+    fill: white;
+}
+
+
+/* new home end */

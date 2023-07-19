@@ -1,0 +1,397 @@
+/*--------------------------------------------------
+[1. Start Home 24-02-2022]
+--------------------------------------------------*/
+.bg-body {
+    background-color: #ffffff !important;
+}
+
+/* header style start  */
+.header::before {
+    content: '';
+    background: url(../images/hiro_img_light.png)!important;
+    width: 100%;
+    background-size: cover!important;
+    background-repeat: no-repeat;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.section_heading {
+    font-weight: 800;
+    font-size: 64px;
+    text-align: center;
+    color: #123442;
+}
+
+.section_pera {
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #000000;
+}
+
+.btn-primary {
+    background-color: #71AFAC !important;
+    border: 2px solid transparent;
+    border-radius: 100px;
+    padding: 8px 40px;
+}
+
+.btn-primary:hover {
+    background-color: white !important;
+    color: #71AFAC !important;
+    border: 2px solid #71AFAC !important;
+}
+
+.btn-primary:focus {
+    box-shadow: none !important;
+    border: 2px solid #71AFAC !important;
+}
+
+.btn-secondary {
+    background-color: transparent !important;
+    border: 2px solid #71AFAC;
+    border-radius: 100px;
+    padding: 8px 40px;
+    color: #71AFAC;
+}
+
+.btn-secondary:hover {
+    background-color: #71AFAC !important;
+    border: 2px solid transparent;
+    border-radius: 100px;
+    color: white;
+}
+
+.btn_no_bg {
+    background-color: transparent !important;
+    color: black !important;
+    border: none !important;
+    font-weight: 500;
+}
+
+.btn_no_bg:hover {
+    background-color: transparent !important;
+    color: black !important;
+    border: none !important;
+}
+
+.btn_no_bg:focus {
+    box-shadow: none !important;
+}
+
+
+
+@media(max-width:425px) {
+    .endless-possibilities .download_btn .btn-primary p {
+        color: #575A65 !important;
+    }
+}
+
+
+.login_btn .btn_no_bg {
+    border-left: 2px solid #71AFAC !important;
+    border-radius: 0px;
+}
+
+.login_btn .btn_no_bg:focus {
+    border: none !important;
+    border-left: 2px solid #71AFAC !important;
+    border-radius: 0px;
+}
+
+
+@media(max-width:991px) {
+    .login_btn .btn_no_bg {
+        border-left: 2px solid #71AFAC !important;
+    }
+}
+
+
+/* collection section style start  */
+.collection .section_heading .dropdown-menu {
+    background-color: #71AFAC;
+}
+
+.collection .section_heading .dropdown-item {
+    color: white;
+}
+
+.collection .section_heading .dropdown-item:hover {
+    color: #71AFAC;
+}
+
+.collection .section_heading .dropdown-toggle::after {
+    display: none !important;
+}
+
+
+.collection .section_heading .dropdown-item:focus {
+    color: #71AFAC !important;
+    background-color: white;
+}
+
+.collection .nav-pills {
+    justify-content: center;
+}
+
+.collection .nav-pills .nav-item {
+    background: #F5F5F5;
+}
+
+
+.collection .nav-pills .nav-item .nav-link {
+    color: #011C23;
+}
+
+.collection .nav-pills .nav-item .nav-link {
+    border-radius: 1000px;
+}
+
+.collection .nav-pills .nav-item .active {
+    background-color: #71AFAC !important;
+    color: white;
+}
+
+.collection .tab-content .tab-pane .table-card {
+    background-color: white;
+}
+
+.table {
+    color: #212529;
+    border-color: #dee2e6;
+}
+
+
+
+.call-to-action h3 {
+    color: #FFFFFF;
+}
+
+.call-to-action .btn-secondary {
+    border: 2px solid white;
+    color: white;
+}
+
+.call-to-action .btn-secondary:hover {
+    border: 2px solid white;
+    color: #71AFAC !important;
+    background-color: white !important;
+}
+
+.call-to-action .btn-primary {
+    border: 2px solid white !important;
+    color: #71AFAC !important;
+    background-color: white !important;
+}
+
+.call-to-action .btn-primary:hover {
+    border: 2px solid white !important;
+    color: white !important;
+    background-color: #71AFAC !important;
+}
+
+
+
+
+/* endless-possibilities  section style start  */
+
+.endless-possibilities .endless-possibilities-img {
+    background-image: url(../images/Endless_sectino_1.png) !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 450px;
+    width: auto;
+}
+
+@media(max-width:1199px) {
+    .endless-possibilities .endless-possibilities-img {
+        height: 340px !important;
+    }
+}
+
+.endless-possibilities .endless-possibilities-img_2 {
+    background-image: url(../images/Endless_sectino_2.png) !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 550px;
+    width: auto;
+}
+
+@media(max-width:1199px) {
+    .endless-possibilities .endless-possibilities-img_2 {
+        height: 340px !important;
+    }
+}
+
+.endles {
+    background-color: #F2F9F9;
+}
+
+.possibilities-box {
+    background-color: #ffffff;
+}
+
+.endless-possibilities .download_btn .btn-primary {
+    background: #F7F7F8 !important;
+}
+
+.endless-possibilities .download_btn .btn-primary p {
+    color: #575A65 !important;
+}
+
+.endless-possibilities .download_btn .btn-primary span {
+    color: #575A65 !important;
+}
+
+
+
+
+/* footer  section style start  */
+.footer {
+    background: #F2F9F9 !important;
+}
+
+.sub-footer {
+    background-color: #ffffff;
+}
+
+.footer .info {
+    border-right: 1px solid #E3E4E4;
+}
+
+.footer .resources {
+    background: #F2F9F9;
+}
+
+.footer .earn-more {
+    background: #71AFAC;
+}
+
+.footer .earn-more h3 {
+    color: white;
+}
+
+.footer .earn-more p {
+    color: white;
+}
+
+.footer .earn-more a {
+    color: white;
+}
+
+.footer ul li a {
+    color: #232323 !important;
+}
+
+.footer .footer_link .input-group .form-control {
+    background: #FFFFFF;
+    border: 1px solid #E7E8EA;
+}
+
+.footer .footer_link .input-group .input-group-text {
+    background-color: #71AFAC !important;
+    color: white;
+}
+
+/*--------------------------------------------------
+[1. End Home 24-02-2022]
+--------------------------------------------------*/
+
+
+
+/*--------------------------------------------------
+[2. login and sign up  start 28-2-2022 ]
+--------------------------------------------------*/
+
+.sign-up .bg-light {
+    background-color: #F2F9F9 !important;
+}
+
+.sign-up .card {
+    background: white;
+}
+
+.sign-up .card .card_heading {
+    color: #0D3642;
+}
+
+.sign-up .card .card_pera {
+    color: #9CA3AF;
+}
+
+.sign-up .card .d-flex .ETH {
+    color: #151D0C;
+}
+
+.sign-up .card .d-flex .rating {
+    color: #19976A;
+}
+
+.sign-up .card_botom_text {
+    color: #123442;
+}
+
+.sign-up .carousel-indicators [data-bs-target] {
+    background-color: #E8EBEC !important;
+}
+
+.sign-up .carousel-indicators .active {
+    background-color: #BCE0DF !important;
+}
+
+.sign-up .form_back_btn a {
+    color: #9CA3AF;
+}
+
+.sign-up .form .form_heading {
+    color: #123442;
+}
+
+.sign-up .form .form_pera {
+    color: #9CA3AF;
+}
+
+.sign-up .form_section .form_devder {
+
+    color: #B8C2C5;
+}
+
+.sign-up .form_section .form_devder span {
+    color: #71AFAC !important;
+}
+
+.sign-up .form-control {
+    background: #F7F7F8;
+    border: 1px solid #E7E8EA;
+}
+
+.sign-up .form-control::placeholder {
+    color: #A0A1AB !important;
+}
+
+
+.sign-up .form_section .form .model_btn {
+    border: 1px solid #D1D5DB !important;
+    color: #374151 !important;
+}
+
+@media(max-width:425px) {
+    .sign-up .bg-light {
+        background-color: #D0D7D9 !important;
+        opacity: 1;
+    }
+
+    .sign-up .bg-light .carousel-item .img-fluid {
+        opacity: 0.5;
+
+    }
+}
+
+/*--------------------------------------------------
+[2. login and sign up  end 28-2-2022  ]
+--------------------------------------------------*/
