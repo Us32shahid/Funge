@@ -22,4 +22,4 @@ RUN npm i stream-browserify --save \
         npm i https-browserify --save \
         npm i os-browserify --save
 COPY . ./
-CMD ["npm", "start"]
+CMD ["npm", "start"]  
